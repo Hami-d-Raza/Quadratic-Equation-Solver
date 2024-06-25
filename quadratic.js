@@ -124,5 +124,3 @@ function moveToNextInput(currentInput, nextInputId) {
     const body = document.body;
     body.classList.toggle('dark-theme');
   }
-
-  
